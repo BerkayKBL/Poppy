@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Poppy</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="password_again">Password Again</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="dont_have_account">You don\'t have account?</string>
+    <string name="already_have_username">Username already have</string>
+    <string name="already_have_email">E-mail already have</string>
+    <string name="you">You</string>
+    <string name="last_message">last message</string>
+    <string name="group_admin">Group Admin</string>
+    <string name="group_members"> Member(s)</string>
+    <string name="make_admin">Make Admin</string>
+    <string name="dismiss_admin">Dismiss Admin</string>
+    <string name="change_group_desc">Change Group Description</string>
+</resources>
